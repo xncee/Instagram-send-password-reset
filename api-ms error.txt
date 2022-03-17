@@ -1,4 +1,0 @@
-The program can't start because api-ms-win-crt-math-l1-1-0.dll
-
-Solution:
-https://www.microsoft.com/en-us/download/confirmation.aspx?id=48145
